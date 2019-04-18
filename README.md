@@ -1,3 +1,5 @@
+[this image on docker hub](https://cloud.docker.com/repository/docker/embix/git-bfg)
+
 [bfg-repo-cleaner manual](https://rtyley.github.io/bfg-repo-cleaner)
 
 #### Usage
